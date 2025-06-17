@@ -49,7 +49,7 @@
 
 <p align="left">
   <a href="https://twitter.com/root_wraith" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://medium.com/root_wraith" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://medium.com/@root_wraith" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://hackerone.com/root_wraith" target="_blank"><img src="https://img.shields.io/badge/HackerOne-494949?style=for-the-badge&logo=HackerOne&logoColor=white"/></a>
 </p>
 
